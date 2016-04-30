@@ -1,0 +1,8 @@
+1. Create a PyDev project with all the files in this folder in Eclipse.
+2. Execute or Run the "UI.py" file.
+3. Open any web browser preferably Chrome.
+4. Type in "http://localhost:8050/" in your web browser.
+5. It will redirect you to Home Page of the Application. 
+
+If you face any issues in executing the code, do not hesitate to contact me on 
+"SHAL5122@COLORADO.EDU"
